@@ -1,0 +1,37 @@
+body{
+   font-family: 'Staatliches', cursive;
+   background: #00ffd0;
+}
+
+.header_div {
+background:rgb(220, 181, 181);
+color:#d0ff00;
+}
+
+.header_div p{
+   font-family:'Roboto',sans-serif;
+   color:rgba(109, 33, 80, 0.403);
+   letter-spacing: 2px;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.main_div button{
+   font-family:'Roboto',sans-serif;
+   margin-top: 30px;
+   width: 130px;
+   font-weight:bolder;
+   letter-spacing:3px;
+}
+
+.copy_right_footer {
+   position: fixed;
+   color: #ff00d4;
+   bottom:0;
+   width: 100%;
+   font-size:18px;
+   background-color:#ab3d3d5d;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(255, 0, 0);
+}
